@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  SwiftUI-vs-UIKit
 //
-//  Created by Egor Petrov on 18.06.22.
+//  Created by Egor Petrov on 19.06.22.
 //
 
 import UIKit
